@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json.schemastore.org/prettierrc",
+  "semi": false,
+  "bracketSpacing": false,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "endOfLine": "lf",
+  "jsxSingleQuote": false,
+  "arrowParens": "always",
+  "jsxBracketSameLine": false
+}
